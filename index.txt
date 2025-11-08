@@ -1,7 +1,0 @@
-Genera el código HTML para una página de presentación profesional con estos datos:
-- Nombre: Antonio
-- Primer apellido: Palús Acín
-- Organismo: Guardia Civil
-- Foto: yo.jpg
-- LinkedIn: www.linkedin.com/in/antoniopalus
-
